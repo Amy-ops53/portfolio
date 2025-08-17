@@ -3,8 +3,8 @@
 이 레포지토리는 제가 진행한 프로젝트 포트폴리오를 모아둔 공간입니다.  
 자기소개 및 경력 요약은 아래 링크에서 확인하실 수 있습니다.  
 
-- 👤 [GitHub Profile (Amy-ops53)](https://github.com/Amy-ops53)  
-- 📄 [Career Document (career-docs)](https://github.com/USERNAME/career-docs) *(Private)*  
+- 👤 [GitHub Profile (Amy-ops53)](https://github.com/Amy-ops53/Amy-ops53)  
+- 📄 [Career Document (career-docs)](https://github.com/Amy-ops53/career-docs) *(Private)*  
 
 ---
 
